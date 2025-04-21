@@ -1,1 +1,1 @@
-("CUSTOM_ROOM_ID":"https://raw.githubusercontent.com/CN-wusi/project-scp-test-room/refs/heads/main/%E8%B7%91%E9%85%B7","ZoneInfo":("白天":("hasdaylight":Y),"HCZ-EZ":("hasdaylight":Y),"LCZ":("hasdaylight":Y)),"Tiles":("白天":("13_13":("CUSTOM_cool",2)),"HCZ-EZ":(),"LCZ":("12_11":("CUSTOM_cool",0))),"Zones":("LCZ","HCZ-EZ","白天"))
+("CUSTOM_ROOM_ID":"https://raw.githubusercontent.com/CN-wusi/project-scp-test-room/refs/heads/main/%E8%B7%91%E9%85%B7","ZoneInfo":("LCZ":(),"HCZ-EZ":(),"白天":()),"Tiles":("LCZ":(),"HCZ-EZ":(),"白天":("13_13":("CUSTOM_cool",2))),"Zones":("LCZ","HCZ-EZ","白天"))
